@@ -4,7 +4,7 @@ The purpose of this exercise is to train you to work with arrays.
 
 Estimated workload of this exercise is _30 min_.
 
-### Description
+## Description
 Please, proceed to [`CycleSwap`](src/main/java/com/epam/rd/autotasks/CycleSwap.java) class
 and implement its static methods:
 
